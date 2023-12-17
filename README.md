@@ -1,2 +1,2 @@
 # FASHT
-Repository holding the source code for the FASHT website.
+Repository holding the source code for the FASHT website. License pending.
